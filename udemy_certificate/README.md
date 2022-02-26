@@ -6,4 +6,4 @@
 [![70-461, 761: Querying Microsoft SQL Server with Transact-SQL](./UC-9ea4f627-f3d8-425a-aab2-68242c8ae6a0.jpg)](https://udemy.com/certificate/UC-9ea4f627-f3d8-425a-aab2-68242c8ae6a0/)
 [![Advanced Web Scraping with Python using Scrapy & Splash](./UC-275a7734-b85f-4fe1-81b0-da6eee3f0fae.jpg)](https://udemy.com/certificate/UC-275a7734-b85f-4fe1-81b0-da6eee3f0fae/)
 [![Modern Web Scraping with Python using Scrapy Splash Selenium](./UC-a5f345fb-96f9-4752-8017-d89ef2274615.jpg)](https://udemy.com/certificate/UC-a5f345fb-96f9-4752-8017-d89ef2274615/)
-[![Advanced Tableau for Business Intelligence & Data Analysis](./UC-032af579-7ebc-44ee-abf1-8449631f4b9b.jpg)](https://udemy-certificate.s3.amazonaws.com/image/UC-032af579-7ebc-44ee-abf1-8449631f4b9b.jpg)
+[![Advanced Tableau for Business Intelligence & Data Analysis](./UC-032af579-7ebc-44ee-abf1-8449631f4b9b.jpg)](https://udemy.com/certificate/UC-032af579-7ebc-44ee-abf1-8449631f4b9b/)
