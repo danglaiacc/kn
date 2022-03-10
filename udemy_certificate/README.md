@@ -7,3 +7,5 @@
 [![Advanced Web Scraping with Python using Scrapy & Splash](./UC-275a7734-b85f-4fe1-81b0-da6eee3f0fae.jpg)](https://udemy.com/certificate/UC-275a7734-b85f-4fe1-81b0-da6eee3f0fae/)
 [![Modern Web Scraping with Python using Scrapy Splash Selenium](./UC-a5f345fb-96f9-4752-8017-d89ef2274615.jpg)](https://udemy.com/certificate/UC-a5f345fb-96f9-4752-8017-d89ef2274615/)
 [![Advanced Tableau for Business Intelligence & Data Analysis](./UC-032af579-7ebc-44ee-abf1-8449631f4b9b.jpg)](https://udemy.com/certificate/UC-032af579-7ebc-44ee-abf1-8449631f4b9b/)
+[![Apache Airflow: The Hands-On Guide](./UC-a121a8f3-e24d-48ca-a02c-b7ca97a1a67f.jpg)](udemy.com/certificate/UC-a121a8f3-e24d-48ca-a02c-b7ca97a1a67f/)
+[![The Advanced SQL Server Masterclass For Data Analysis](./UC-3731143d-2670-443e-b096-421b27f9907f.jpg)](https://www.udemy.com/certificate/UC-3731143d-2670-443e-b096-421b27f9907f/)
