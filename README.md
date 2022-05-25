@@ -1,6 +1,6 @@
+# 45. Benefits - CRUD for Offers, also Preview
+Offers are the ones being shown in the "Tinder-like game" or the other small games in the app. 
 
-- Kế hoạch Marketing cụ thể phải xem file dự tính.
-
-
-[![alt text](udemy_certificate/1.pyspark_aws.jpg)](https://www.udemy.com/certificate/UC-0e59df58-f2f4-4b1f-8d8d-8c992d95d354/)
-[![alt text](./udemy_certificate/1.pyspark_aws.jpg)](https://www.udemy.com/certificate/UC-0e59df58-f2f4-4b1f-8d8d-8c992d95d354/)
+This task consists of 
+- Full CRUD for the offers.
+- Preview to see offers. The preview follows the sequence number that each offer has.
