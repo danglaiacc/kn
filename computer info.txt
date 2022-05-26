@@ -1,6 +1,0 @@
-Connection Name Network Adapter Physical Address    Transport Name
-=============== =============== =================== ==========================================================
-Wi-Fi           Qualcomm QCA937 EC-5C-68-62-96-FB   \Device\Tcpip_{F0FE9A23-14F9-4411-A2AB-98AFDFBFA94E}
--------------
-SerialNumber
-8SN9DX2
